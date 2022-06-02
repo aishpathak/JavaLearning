@@ -1,0 +1,29 @@
+Primitive data types
+1.	Byte : -128 to 127 very small range
+2.	Short: -3268 to 327767
+3.	Int: -2 power 31 to (2 power 31)-1 
+4.	Long: -2 power 63 to 2(2power 63)-1 
+5.	Float: to store numric value which has decimal
+6.	Double: to store numric value which has decimal
+7.	Boolean
+8.	Char: 16 bit to store the value, because it store in Unicode reprentation …-> is representation which support across plateform.
+
+Non Primitive data type:
+1.	String: String is special data type, it neither come in fully primitive or non primitive data type.
+Java does provides native support for string handling in the jdk and that’s the reason some of the developer feels that string is primitive data type at the same time string is so customizable and so spl in nature the way it stores the value the way it proveds the operation handling. Its different from primitive data type so we can not put in same bucket as primitive data type
+What is string?
+In char data type we can only store single charcter . but if you want to store complete name of some body then its list of character in that case you need a data type to store a contiguous sequence character.
+String can store contiguous sequence of characters.
+2.	Array: Store homogenous data type value or same data type value
+3.	Class
+Tokens: this token is basically some revered expression symbol, words which have predefined meaning in java ad you can not overwrite this meaning because this meaning is already defined by java and you can use those expression , those symbol those words in only the way java wants you to.
+There is no way you can change the meaning of the words and the symbol
+Tokens :
+These tokens are broadly divided by 5 different category
+1.	Keywords
+2.	Constants
+3.	Identifiers
+4.	Special symbol
+5.	Operators
+Implicit/Explicit casting
+
